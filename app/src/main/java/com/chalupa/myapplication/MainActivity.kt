@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity1() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var jim = "jim"
+        var jim2 = "will it work?"
 
     }
 }
